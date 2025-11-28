@@ -26,4 +26,4 @@ youtube-search
 youtube-search-python
 py_yt_search
 pymongo==4.6.3
-httpx[http2]==0.27.2
+httpx[http2]>=0.28.1
